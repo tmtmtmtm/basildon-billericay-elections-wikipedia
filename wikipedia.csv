@@ -1,0 +1,19 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q337720,John Baron,Q9626,Conservative Party (UK),29590,Q30173038,General election 2019,1
+,Andrew Gordon,Q9630,Labour Party (UK),9178,Q30173038,General election 2019,2
+,Edward Sainsbury,Q9624,Liberal Democrats (UK),3741,Q30173038,General election 2019,3
+,Stewart Goshawk,Q9669,Green Party of England and Wales,1395,Q30173038,General election 2019,4
+,Simon Breedon,Q7550572,"Social Democratic Party (UK, 1990-present)",224,Q30173038,General election 2019,5
+Q337720,John Baron,Q9626,Conservative Party (UK),27381,Q25052149,General election 2017,1
+,Kayte Block,Q9630,Labour Party (UK),13981,Q25052149,General election 2017,2
+,Tina Hughes,Q10647,United Kingdom Independence Party,2008,Q25052149,General election 2017,3
+,Antonia Harrison,Q9624,Liberal Democrats (UK),1548,Q25052149,General election 2017,4
+Q337720,John Baron,Q9626,Conservative Party (UK),22668,Q3586935,General election 2015,1
+,Gavin Callaghan,Q9630,Labour Party (UK),10186,Q3586935,General election 2015,2
+,George Konstantinidis,Q10647,United Kingdom Independence Party,8538,Q3586935,General election 2015,3
+,Martin Thompson,Q9624,Liberal Democrats (UK),1636,Q3586935,General election 2015,4
+Q337720,John Baron,Q9626,Conservative Party (UK),21982,Q215622,General election 2010,1
+,Allan Davies,Q9630,Labour Party (UK),9584,Q215622,General election 2010,2
+,Mike Hibbs,Q9624,Liberal Democrats (UK),6538,Q215622,General election 2010,3
+,Irene Bateman,Q161269,British National Party,1934,Q215622,General election 2010,4
+,Alan Broad,Q10647,United Kingdom Independence Party,1591,Q215622,General election 2010,5
